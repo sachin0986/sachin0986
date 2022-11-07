@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sachin0986
+- 👋 Hi, I’m Sachin
 - 👀 I’m interested in Front-end
 - 🌱 I’m currently learning Full Stck Web Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at my mail :- sachinarora8279@gmail.com 
 
 <!---
